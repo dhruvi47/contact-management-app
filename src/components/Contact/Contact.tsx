@@ -2,7 +2,6 @@ import { connect } from "react-redux";
 import { Link } from "react-router-dom";
 import { ImCross } from "react-icons/im";
 import { Dispatch } from "redux";
-import React from "react";
 
 interface ContactList {
   id: number;
